@@ -1,2 +1,13 @@
 # DiplomaPublic
 Публичный репозиторий для моего дипломного проекта "Применение технологий искусственного интеллекта для распределения капитала между алгоритмами технического анализа на рынке криптовалют"
+
+
+
+## Установка freqtrade на Mac
+https://www.freqtrade.io/en/stable/docker_quickstart/
+
+## env
+pip install pandas catboost
+
+## pairs
+(BTC|ETH|ADA|DOGE|SOL|LINK|XRP|TRX|DOT)/USDT
