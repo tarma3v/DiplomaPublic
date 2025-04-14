@@ -7,7 +7,8 @@
 https://www.freqtrade.io/en/stable/docker_quickstart/
 
 ## env
-pip install pandas catboost finta notebook
+pip install pandas catboost finta notebook pyarrow seaborn
+pip install -U scikit-learn scipy matplotlib
 
 ## pairs
 (BTC|ETH|ADA|DOGE|SOL|LINK|XRP|TRX|DOT)/USDT
