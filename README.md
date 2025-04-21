@@ -7,7 +7,7 @@
 https://www.freqtrade.io/en/stable/docker_quickstart/
 
 ## env
-pip install pandas catboost finta notebook pyarrow seaborn
+pip install pandas catboost finta notebook pyarrow seaborn tensorflow
 pip install -U scikit-learn scipy matplotlib
 
 ## pairs

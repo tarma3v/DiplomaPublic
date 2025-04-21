@@ -247,7 +247,7 @@ def generate_indicators_multitimeframe(df):
     # psar_df.index = original_index
     # df['TREND_PSAR'] = psar_df['psar']
     
-    return df
+    return df.dropna()
 
 
 def get_merged_dataframes(pair1, pair2, generate_features_func=generate_indicators_multitimeframe):
